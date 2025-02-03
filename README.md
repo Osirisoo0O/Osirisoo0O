@@ -1,6 +1,8 @@
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Osirisoo0O\&show_icons=true\&rank_icon=github&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Osirisoo0O\&layout=donut-vertical&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Osirisoo0O/Osirisoo0O** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
